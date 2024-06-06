@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02c1f3db-33d5-4ad7-9433-2fcab01ee17a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Assignment 1 Hello/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1 Hello/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1 Hello/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1 Hello/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1 Hello/Assignment 1 Hello.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1 Hello/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1 Hello/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1 Hello/out/production/Assignment 1 Hello/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1 Hello/out/production/Assignment 1 Hello/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1 Hello/out/production/Assignment 1 Hello/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1 Hello/out/production/Assignment 1 Hello/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1 Hello/out/production/Assignment 1 Hello/Assignment 1 Hello.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 1 Hello/out/production/Assignment 1 Hello/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 10 Basic Programming Concepts/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 10 Basic Programming Concepts/.idea/Assignment 10 Basic Programming Concepts.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 10 Basic Programming Concepts/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 10 Basic Programming Concepts/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 10 Basic Programming Concepts/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 10 Basic Programming Concepts/DogGenetics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 10 Basic Programming Concepts/HealthyHearts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 10 Basic Programming Concepts/SummativeSums.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 10 Basic Programming Concepts/out/production/Assignment 10 Basic Programming Concepts/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 10 Basic Programming Concepts/out/production/Assignment 10 Basic Programming Concepts/.idea/Assignment 10 Basic Programming Concepts.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 10 Basic Programming Concepts/out/production/Assignment 10 Basic Programming Concepts/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 10 Basic Programming Concepts/out/production/Assignment 10 Basic Programming Concepts/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 10 Basic Programming Concepts/out/production/Assignment 10 Basic Programming Concepts/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 10 Basic Programming Concepts/out/production/Assignment 10 Basic Programming Concepts/DogGenetics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 10 Basic Programming Concepts/out/production/Assignment 10 Basic Programming Concepts/HealthyHearts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 10 Basic Programming Concepts/out/production/Assignment 10 Basic Programming Concepts/SummativeSums.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 11 Rock, Paper, Scissors/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 11 Rock, Paper, Scissors/.idea/Assignment 11 Rock, Paper, Scissors.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 11 Rock, Paper, Scissors/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 11 Rock, Paper, Scissors/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 11 Rock, Paper, Scissors/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 11 Rock, Paper, Scissors/RockPaperScissors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 11 Rock, Paper, Scissors/out/production/Assignment 11 Rock, Paper, Scissors/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 11 Rock, Paper, Scissors/out/production/Assignment 11 Rock, Paper, Scissors/.idea/Assignment 11 Rock, Paper, Scissors.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 11 Rock, Paper, Scissors/out/production/Assignment 11 Rock, Paper, Scissors/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 11 Rock, Paper, Scissors/out/production/Assignment 11 Rock, Paper, Scissors/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 11 Rock, Paper, Scissors/out/production/Assignment 11 Rock, Paper, Scissors/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 11 Rock, Paper, Scissors/out/production/Assignment 11 Rock, Paper, Scissors/RockPaperScissors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/.idea/Assignment 12 ClassModeling.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/airplane/AirplaneAirControl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/airplane/AirplaneFlightSimulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/airplane/AirplaneInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/airplane/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/books/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/books/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/books/BookLibraryCatalogue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/books/BookPublishingSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/car/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/car/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/car/CarGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/car/CarInventorySystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/factorizer/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/factorizer/Factorizer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/helloWorld/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/helloWorld/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/house/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/house/DesignHouse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/house/GpsHouse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/house/HouseInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/iceCream/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/iceCream/IceCream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/iceCream/IceCreamControlSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/iceCream/IceCreamStockingSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/interestCalculator/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/interestCalculator/InterestCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/luckySevens/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/luckySevens/LuckySevens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/rockPaperScissors/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/rockPaperScissors/RockPaperScissors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/shapes/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/shapes/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/shapes/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/shapes/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/shapes/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/simpleCalculator/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/simpleCalculator/SimpleCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/stateCapitals/StateCapitals1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/stateCapitals2/StateCapitals.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/stateCapitals2/StateCapitals2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/stateCapitals3/Capital.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/stateCapitals3/MoreStateCapitals.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/stateCapitals3/StateCapitalsApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/studentQuizScores/StudentQuizGrades.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/studentQuizScores/UserIO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/userIO/TestingUserIO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/userIO/UserIO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/classes/userIO/UserIOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/.idea/Assignment 12 ClassModeling.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/addressbook/Controller/AddressBookController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/addressbook/Model/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/addressbook/Model/AddressBookDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/addressbook/Model/AddressBookDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/addressbook/View/UserIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/airplane/AirplaneAirControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/airplane/AirplaneFlightSimulator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/airplane/AirplaneInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/airplane/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/books/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/books/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/books/BookLibraryCatalogue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/books/BookPublishingSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/car/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/car/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/car/CarGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/car/CarInventorySystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/factorizer/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/factorizer/Factorizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/helloWorld/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/helloWorld/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/house/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/house/DesignHouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/house/GpsHouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/house/HouseInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/iceCream/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/iceCream/IceCream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/iceCream/IceCreamControlSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/iceCream/IceCreamStockingSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/interestCalculator/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/interestCalculator/InterestCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/luckySevens/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/luckySevens/LuckySevens.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/rockPaperScissors/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/rockPaperScissors/RockPaperScissors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/shapes/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/shapes/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/shapes/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/shapes/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/shapes/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/simpleCalculator/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/simpleCalculator/SimpleCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/stateCapitals/StateCapitals1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/stateCapitals2/StateCapitals.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/stateCapitals2/StateCapitals2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/stateCapitals3/Capital.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/stateCapitals3/MoreStateCapitals.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/stateCapitals3/StateCapitalsApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/studentQuizScores/StudentQuizGrades.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/studentQuizScores/UserIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/userIO/TestingUserIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/userIO/UserIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 12 ClassModeling/out/production/Assignment 12 ClassModeling/classes/userIO/UserIOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/.idea/Assignment 13 Roster MVC CRUD App.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/Class Roster/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/Class Roster/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/Class Roster/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/Class Roster/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/Class Roster/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/Class Roster/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/Class Roster/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/Class Roster/src/main/java/audit.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/Class Roster/src/main/java/com/sg/roster/classroster/controller/ClassRosterController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/Class Roster/src/main/java/com/sg/roster/classroster/dao/ClassRosterAuditDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/Class Roster/src/main/java/com/sg/roster/classroster/dao/ClassRosterAuditDaoFileImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/Class Roster/src/main/java/com/sg/roster/classroster/dao/ClassRosterDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/Class Roster/src/main/java/com/sg/roster/classroster/dao/ClassRosterDaoFileImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/Class Roster/src/main/java/com/sg/roster/classroster/dao/ClassRosterPersistenceException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/Class Roster/src/main/java/com/sg/roster/classroster/dto/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/Class Roster/src/main/java/com/sg/roster/classroster/service/ClassRosterDataValidationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/Class Roster/src/main/java/com/sg/roster/classroster/service/ClassRosterDuplicateIdException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/Class Roster/src/main/java/com/sg/roster/classroster/service/ClassRosterServiceLayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/Class Roster/src/main/java/com/sg/roster/classroster/service/ClassRosterServiceLayerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/Class Roster/src/main/java/com/sg/roster/classroster/ui/ClassRosterView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/Class Roster/src/main/java/com/sg/roster/classroster/ui/UserIO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/Class Roster/src/main/java/com/sg/roster/classroster/ui/UserIOConsoleImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/Class Roster/src/main/java/roster.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/Class Roster/src/test/java/com/sg/roster/classroster/dao/ClassRosterDaoFileImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/Class Roster/src/test/java/com/sg/roster/classroster/service/ClassRosterAuditDaoStubImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/Class Roster/src/test/java/com/sg/roster/classroster/service/ClassRosterDaoStubImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 13 Roster MVC CRUD App/Class Roster/src/test/java/com/sg/roster/classroster/service/ClassRosterServiceLayerImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/src/main/java/com/sg/testing/dao/MonsterDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/src/main/java/com/sg/testing/dao/implementations/AGoodMonsterDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/src/main/java/com/sg/testing/dao/implementations/buggy/BadMonsterDaoA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/src/main/java/com/sg/testing/dao/implementations/buggy/BadMonsterDaoB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/src/main/java/com/sg/testing/dao/implementations/buggy/BadMonsterDaoC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/src/main/java/com/sg/testing/dao/implementations/buggy/BadMonsterDaoD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/src/main/java/com/sg/testing/dao/implementations/buggy/BadMonsterDaoE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/src/main/java/com/sg/testing/dao/implementations/buggy/BadMonsterDaoF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/src/main/java/com/sg/testing/model/Monster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/src/main/java/com/sg/testing/model/MonsterType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/src/test/java/com/sg/testing/dao/implementations/AGoodMonsterDaoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/src/test/java/com/sg/testing/dao/implementations/buggy/BadMonsterDaoATest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/src/test/java/com/sg/testing/dao/implementations/buggy/BadMonsterDaoBTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/src/test/java/com/sg/testing/dao/implementations/buggy/BadMonsterDaoCTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/src/test/java/com/sg/testing/dao/implementations/buggy/BadMonsterDaoDTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/src/test/java/com/sg/testing/dao/implementations/buggy/BadMonsterDaoETest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/src/test/java/com/sg/testing/dao/implementations/buggy/BadMonsterDaoFTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/target/classes/com/sg/testing/dao/MonsterDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/target/classes/com/sg/testing/dao/implementations/AGoodMonsterDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/target/classes/com/sg/testing/dao/implementations/buggy/BadMonsterDaoA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/target/classes/com/sg/testing/dao/implementations/buggy/BadMonsterDaoB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/target/classes/com/sg/testing/dao/implementations/buggy/BadMonsterDaoC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/target/classes/com/sg/testing/dao/implementations/buggy/BadMonsterDaoD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/target/classes/com/sg/testing/dao/implementations/buggy/BadMonsterDaoE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/target/classes/com/sg/testing/dao/implementations/buggy/BadMonsterDaoF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/target/classes/com/sg/testing/model/Monster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/target/classes/com/sg/testing/model/MonsterType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/target/test-classes/com/sg/testing/dao/implementations/AGoodMonsterDaoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/target/test-classes/com/sg/testing/dao/implementations/buggy/BadMonsterDaoATest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/target/test-classes/com/sg/testing/dao/implementations/buggy/BadMonsterDaoBTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/target/test-classes/com/sg/testing/dao/implementations/buggy/BadMonsterDaoCTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/target/test-classes/com/sg/testing/dao/implementations/buggy/BadMonsterDaoDTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/target/test-classes/com/sg/testing/dao/implementations/buggy/BadMonsterDaoETest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 14 MonstrousDaoTestingLab/target/test-classes/com/sg/testing/dao/implementations/buggy/BadMonsterDaoFTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 15 Address Book/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 15 Address Book/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 15 Address Book/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 15 Address Book/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 15 Address Book/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 15 Address Book/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 15 Address Book/src/main/java/addressBook/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 15 Address Book/src/main/java/addressBook/AddressBookController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 15 Address Book/src/main/java/addressBook/AddressBookDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 15 Address Book/src/main/java/addressBook/AddressBookDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 15 Address Book/src/main/java/addressBook/UserIO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 15 Address Book/src/test/java/AddressBookDaoImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 16 DVD Library MVC/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 16 DVD Library MVC/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 16 DVD Library MVC/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 16 DVD Library MVC/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 16 DVD Library MVC/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 16 DVD Library MVC/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 16 DVD Library MVC/src/main/java/org/dvd/controller/DVDLibraryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 16 DVD Library MVC/src/main/java/org/dvd/model/DVD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 16 DVD Library MVC/src/main/java/org/dvd/model/DVDLibraryDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 16 DVD Library MVC/src/main/java/org/dvd/model/DVDLibraryDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 16 DVD Library MVC/src/main/java/org/dvd/model/DVDLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 16 DVD Library MVC/src/main/java/org/dvd/model/DVDs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 16 DVD Library MVC/src/main/java/org/dvd/view/DVDLibraryView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 16 DVD Library MVC/src/test/java/DVDLibraryDaoImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17 CarLotService/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17 CarLotService/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17 CarLotService/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17 CarLotService/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17 CarLotService/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17 CarLotService/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17 CarLotService/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17 CarLotService/src/main/java/com/mvc/dao/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17 CarLotService/src/main/java/com/mvc/dao/CarLotDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17 CarLotService/src/main/java/com/mvc/dao/CarLotDAOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17 CarLotService/src/main/java/com/mvc/dao/NoSuchCarException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17 CarLotService/src/main/java/com/mvc/dto/CarKey.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17 CarLotService/src/main/java/com/mvc/service/CarLotService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17 CarLotService/src/main/java/com/mvc/service/CarLotServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17 CarLotService/src/main/java/com/mvc/service/OverpaidPriceException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17 CarLotService/src/main/java/com/mvc/service/UnderpaidPriceException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 17 CarLotService/src/main/java/com/mvc/view/CarLotView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 18 Intermediate Java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 18 Intermediate Java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 18 Intermediate Java/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 18 Intermediate Java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 18 Intermediate Java/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 18 Intermediate Java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 18 Intermediate Java/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 18 Intermediate Java/src/main/java/dateTimeAPI/BirthDAYCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 18 Intermediate Java/src/main/java/enums/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 18 Intermediate Java/src/main/java/enums/Day.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 18 Intermediate Java/src/main/java/mathOperators/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 18 Intermediate Java/src/main/java/mathOperators/IntMath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 18 Intermediate Java/src/main/java/mathOperators/MathOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Roster MVC CRUD App Spring/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Roster MVC CRUD App Spring/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/src/main/java/com/tsg/unittesting/DogBuddy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/src/main/java/com/tsg/unittesting/HappyLlamas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/src/main/java/com/tsg/unittesting/arrays/ArrayExerciseA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/src/main/java/com/tsg/unittesting/arrays/ArrayExerciseB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/src/main/java/com/tsg/unittesting/arrays/ArrayExerciseC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/src/main/java/com/tsg/unittesting/arrays/ArrayExerciseD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/src/main/java/com/tsg/unittesting/arrays/ArrayExerciseE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/src/main/java/com/tsg/unittesting/logic/LogicExerciseA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/src/main/java/com/tsg/unittesting/logic/LogicExerciseB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/src/main/java/com/tsg/unittesting/logic/LogicExerciseC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/src/main/java/com/tsg/unittesting/logic/LogicExerciseD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/src/main/java/com/tsg/unittesting/logic/LogicExerciseE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/src/main/java/com/tsg/unittesting/strings/StringsExerciseA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/src/main/java/com/tsg/unittesting/strings/StringsExerciseB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/src/main/java/com/tsg/unittesting/strings/StringsExerciseC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/src/main/java/com/tsg/unittesting/strings/StringsExerciseD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/src/main/java/com/tsg/unittesting/strings/StringsExerciseE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/src/main/java/com/tsg/unittesting/strings/StringsExerciseF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/src/test/java/com/tsg/unittesting/ArrayExercisesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/src/test/java/com/tsg/unittesting/HappyLlamasTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/src/test/java/com/tsg/unittesting/HowManyWoofsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/src/test/java/com/tsg/unittesting/LogicExercisesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/src/test/java/com/tsg/unittesting/StringsExercisesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/target/classes/com/tsg/unittesting/DogBuddy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/target/classes/com/tsg/unittesting/HappyLlamas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/target/classes/com/tsg/unittesting/arrays/ArrayExerciseA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/target/classes/com/tsg/unittesting/arrays/ArrayExerciseB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/target/classes/com/tsg/unittesting/arrays/ArrayExerciseC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/target/classes/com/tsg/unittesting/arrays/ArrayExerciseD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/target/classes/com/tsg/unittesting/arrays/ArrayExerciseE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/target/classes/com/tsg/unittesting/logic/LogicExerciseA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/target/classes/com/tsg/unittesting/logic/LogicExerciseB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/target/classes/com/tsg/unittesting/logic/LogicExerciseC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/target/classes/com/tsg/unittesting/logic/LogicExerciseD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/target/classes/com/tsg/unittesting/logic/LogicExerciseE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/target/classes/com/tsg/unittesting/strings/StringsExerciseA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/target/classes/com/tsg/unittesting/strings/StringsExerciseB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/target/classes/com/tsg/unittesting/strings/StringsExerciseC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/target/classes/com/tsg/unittesting/strings/StringsExerciseD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/target/classes/com/tsg/unittesting/strings/StringsExerciseE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/target/classes/com/tsg/unittesting/strings/StringsExerciseF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/target/test-classes/com/tsg/unittesting/ArrayExercisesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/target/test-classes/com/tsg/unittesting/HappyLlamasTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/target/test-classes/com/tsg/unittesting/HowManyWoofsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/target/test-classes/com/tsg/unittesting/LogicExercisesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 19 Stateless Unit Testing/target/test-classes/com/tsg/unittesting/StringsExercisesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2 HelloWorld/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2 HelloWorld/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2 HelloWorld/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2 HelloWorld/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2 HelloWorld/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2 HelloWorld/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 2 HelloWorld/src/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 20 VendingMachine/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 20 VendingMachine/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 20 VendingMachine/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 20 VendingMachine/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 20 VendingMachine/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 20 VendingMachine/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 20 VendingMachine/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 20 VendingMachine/src/main/java/vendingMachine/audit/AuditDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 20 VendingMachine/src/main/java/vendingMachine/audit/AuditFileDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 20 VendingMachine/src/main/java/vendingMachine/controller/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 20 VendingMachine/src/main/java/vendingMachine/dao/ItemDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 20 VendingMachine/src/main/java/vendingMachine/dao/ItemFileDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 20 VendingMachine/src/main/java/vendingMachine/dto/Change.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 20 VendingMachine/src/main/java/vendingMachine/dto/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 20 VendingMachine/src/main/java/vendingMachine/exception/InsufficientFundsException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 20 VendingMachine/src/main/java/vendingMachine/exception/NoItemInventoryException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 20 VendingMachine/src/main/java/vendingMachine/service/VendingMachineService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 20 VendingMachine/src/main/java/vendingMachine/service/VendingMachineServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 20 VendingMachine/src/main/java/vendingMachine/ui/VendingMachineView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 20 VendingMachine/src/test/java/ItemFileDAOTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 20 VendingMachine/src/test/java/VendingMachineServiceImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/.idea/Assignment 13 Roster MVC CRUD App.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/Class Roster/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/Class Roster/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/Class Roster/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/Class Roster/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/Class Roster/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/Class Roster/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/Class Roster/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/Class Roster/src/main/java/audit.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/Class Roster/src/main/java/com/sg/roster/classroster/controller/ClassRosterController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/Class Roster/src/main/java/com/sg/roster/classroster/dao/ClassRosterAuditDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/Class Roster/src/main/java/com/sg/roster/classroster/dao/ClassRosterAuditDaoFileImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/Class Roster/src/main/java/com/sg/roster/classroster/dao/ClassRosterDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/Class Roster/src/main/java/com/sg/roster/classroster/dao/ClassRosterDaoFileImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/Class Roster/src/main/java/com/sg/roster/classroster/dao/ClassRosterPersistenceException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/Class Roster/src/main/java/com/sg/roster/classroster/dto/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/Class Roster/src/main/java/com/sg/roster/classroster/service/ClassRosterDataValidationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/Class Roster/src/main/java/com/sg/roster/classroster/service/ClassRosterDuplicateIdException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/Class Roster/src/main/java/com/sg/roster/classroster/service/ClassRosterServiceLayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/Class Roster/src/main/java/com/sg/roster/classroster/service/ClassRosterServiceLayerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/Class Roster/src/main/java/com/sg/roster/classroster/ui/ClassRosterView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/Class Roster/src/main/java/com/sg/roster/classroster/ui/UserIO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/Class Roster/src/main/java/com/sg/roster/classroster/ui/UserIOConsoleImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/Class Roster/src/main/java/roster.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/Class Roster/src/main/resources/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/Class Roster/src/test/java/com/sg/roster/classroster/dao/ClassRosterDaoFileImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/Class Roster/src/test/java/com/sg/roster/classroster/service/ClassRosterAuditDaoStubImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/Class Roster/src/test/java/com/sg/roster/classroster/service/ClassRosterDaoStubImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 21 Roster MVC CRUD App Spring/Class Roster/src/test/java/com/sg/roster/classroster/service/ClassRosterServiceLayerImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/.idea/BookTrackerAnnotation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/BookTracker/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/BookTracker/src/main/java/com/sg/booktracker/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/BookTracker/src/main/java/com/sg/booktracker/controller/BookController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/BookTracker/src/main/java/com/sg/booktracker/dao/BookDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/BookTracker/src/main/java/com/sg/booktracker/dao/BookDaoMemoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/BookTracker/src/main/java/com/sg/booktracker/dto/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/BookTracker/src/main/java/com/sg/booktracker/service/BookService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/BookTracker/src/main/java/com/sg/booktracker/ui/BookView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/BookTracker/src/main/java/com/sg/booktracker/ui/UserIO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/BookTracker/src/main/java/com/sg/booktracker/ui/UserIOConsoleImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/BookTracker/src/main/resources/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/BookTracker/target/classes/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/BookTracker/target/classes/com/sg/booktracker/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/BookTracker/target/classes/com/sg/booktracker/controller/BookController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/BookTracker/target/classes/com/sg/booktracker/dao/BookDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/BookTracker/target/classes/com/sg/booktracker/dao/BookDaoMemoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/BookTracker/target/classes/com/sg/booktracker/dto/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/BookTracker/target/classes/com/sg/booktracker/service/BookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/BookTracker/target/classes/com/sg/booktracker/ui/BookView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/BookTracker/target/classes/com/sg/booktracker/ui/UserIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 22 BookTrackerConfig/BookTracker/target/classes/com/sg/booktracker/ui/UserIOConsoleImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 23 BookTracker Annotation/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 23 BookTracker Annotation/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 23 BookTracker Annotation/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 23 BookTracker Annotation/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 23 BookTracker Annotation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 23 BookTracker Annotation/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 23 BookTracker Annotation/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 23 BookTracker Annotation/src/main/java/com/sg/booktracker/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 23 BookTracker Annotation/src/main/java/com/sg/booktracker/controller/BookController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 23 BookTracker Annotation/src/main/java/com/sg/booktracker/dao/BookDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 23 BookTracker Annotation/src/main/java/com/sg/booktracker/dao/BookDaoMemoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 23 BookTracker Annotation/src/main/java/com/sg/booktracker/dto/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 23 BookTracker Annotation/src/main/java/com/sg/booktracker/service/BookService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 23 BookTracker Annotation/src/main/java/com/sg/booktracker/ui/BookView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 23 BookTracker Annotation/src/main/java/com/sg/booktracker/ui/UserIO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 23 BookTracker Annotation/src/main/java/com/sg/booktracker/ui/UserIOConsoleImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 23 BookTracker Annotation/target/classes/com/sg/booktracker/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 23 BookTracker Annotation/target/classes/com/sg/booktracker/controller/BookController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 23 BookTracker Annotation/target/classes/com/sg/booktracker/dao/BookDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 23 BookTracker Annotation/target/classes/com/sg/booktracker/dao/BookDaoMemoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 23 BookTracker Annotation/target/classes/com/sg/booktracker/dto/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 23 BookTracker Annotation/target/classes/com/sg/booktracker/service/BookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 23 BookTracker Annotation/target/classes/com/sg/booktracker/ui/BookView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 23 BookTracker Annotation/target/classes/com/sg/booktracker/ui/UserIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 23 BookTracker Annotation/target/classes/com/sg/booktracker/ui/UserIOConsoleImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 24 DVD Library Spring MVC/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 24 DVD Library Spring MVC/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 24 DVD Library Spring MVC/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 24 DVD Library Spring MVC/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 24 DVD Library Spring MVC/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 24 DVD Library Spring MVC/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 24 DVD Library Spring MVC/src/main/java/org/dvd/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 24 DVD Library Spring MVC/src/main/java/org/dvd/controller/DVDLibraryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 24 DVD Library Spring MVC/src/main/java/org/dvd/model/DVD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 24 DVD Library Spring MVC/src/main/java/org/dvd/model/DVDLibraryDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 24 DVD Library Spring MVC/src/main/java/org/dvd/model/DVDLibraryDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 24 DVD Library Spring MVC/src/main/java/org/dvd/model/DVDLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 24 DVD Library Spring MVC/src/main/java/org/dvd/model/DVDs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 24 DVD Library Spring MVC/src/main/java/org/dvd/view/DVDLibraryView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 24 DVD Library Spring MVC/src/test/java/DVDLibraryDaoImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 25 VendingMachine/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 25 VendingMachine/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 26 JDBC ExampleStarter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 26 JDBC ExampleStarter/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 26 JDBC ExampleStarter/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 26 JDBC ExampleStarter/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 26 JDBC ExampleStarter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 26 JDBC ExampleStarter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 26 JDBC ExampleStarter/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 26 JDBC ExampleStarter/src/main/java/com/sg/jdbcexample/ToDo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 26 JDBC ExampleStarter/src/main/java/com/sg/jdbcexample/ToDoListMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 26 JDBC ExampleStarter/target/classes/com/sg/jdbcexample/ToDo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 26 JDBC ExampleStarter/target/classes/com/sg/jdbcexample/ToDoListMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 27 JDBC TemplateExampleStarter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 27 JDBC TemplateExampleStarter/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 27 JDBC TemplateExampleStarter/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 27 JDBC TemplateExampleStarter/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 27 JDBC TemplateExampleStarter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 27 JDBC TemplateExampleStarter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 27 JDBC TemplateExampleStarter/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 27 JDBC TemplateExampleStarter/src/main/java/com/sg/jdbctemplateexample/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 27 JDBC TemplateExampleStarter/src/main/java/com/sg/jdbctemplateexample/ToDo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 27 JDBC TemplateExampleStarter/src/main/java/com/sg/jdbctemplateexample/ToDoMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 27 JDBC TemplateExampleStarter/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 27 JDBC TemplateExampleStarter/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 27 JDBC TemplateExampleStarter/target/classes/com/sg/jdbctemplateexample/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 27 JDBC TemplateExampleStarter/target/classes/com/sg/jdbctemplateexample/ToDo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 27 JDBC TemplateExampleStarter/target/classes/com/sg/jdbctemplateexample/ToDoMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/src/main/java/com/sg/jdbctcomplexexample/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/src/main/java/com/sg/jdbctcomplexexample/controller/MeetingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/src/main/java/com/sg/jdbctcomplexexample/dao/EmployeeDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/src/main/java/com/sg/jdbctcomplexexample/dao/EmployeeDaoDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/src/main/java/com/sg/jdbctcomplexexample/dao/EmployeeMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/src/main/java/com/sg/jdbctcomplexexample/dao/MeetingDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/src/main/java/com/sg/jdbctcomplexexample/dao/MeetingDaoDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/src/main/java/com/sg/jdbctcomplexexample/dao/MeetingMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/src/main/java/com/sg/jdbctcomplexexample/dao/RoomDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/src/main/java/com/sg/jdbctcomplexexample/dao/RoomDaoDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/src/main/java/com/sg/jdbctcomplexexample/dao/RoomMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/src/main/java/com/sg/jdbctcomplexexample/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/src/main/java/com/sg/jdbctcomplexexample/entity/Meeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/src/main/java/com/sg/jdbctcomplexexample/entity/Room.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/src/main/java/com/sg/jdbctcomplexexample/view/MeetingView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/src/main/java/com/sg/jdbctcomplexexample/view/UserIO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/src/main/java/com/sg/jdbctcomplexexample/view/UserIOConsoleImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/target/classes/com/sg/jdbctcomplexexample/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/target/classes/com/sg/jdbctcomplexexample/controller/MeetingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/target/classes/com/sg/jdbctcomplexexample/dao/EmployeeDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/target/classes/com/sg/jdbctcomplexexample/dao/EmployeeDaoDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/target/classes/com/sg/jdbctcomplexexample/dao/EmployeeMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/target/classes/com/sg/jdbctcomplexexample/dao/MeetingDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/target/classes/com/sg/jdbctcomplexexample/dao/MeetingDaoDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/target/classes/com/sg/jdbctcomplexexample/dao/MeetingMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/target/classes/com/sg/jdbctcomplexexample/dao/RoomDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/target/classes/com/sg/jdbctcomplexexample/dao/RoomDaoDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/target/classes/com/sg/jdbctcomplexexample/dao/RoomMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/target/classes/com/sg/jdbctcomplexexample/entity/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/target/classes/com/sg/jdbctcomplexexample/entity/Meeting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/target/classes/com/sg/jdbctcomplexexample/entity/Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/target/classes/com/sg/jdbctcomplexexample/view/MeetingView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/target/classes/com/sg/jdbctcomplexexample/view/UserIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 28 JDBC ComplexExampleStarter/target/classes/com/sg/jdbctcomplexexample/view/UserIOConsoleImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/src/main/java/com/sg/jdbctcomplexexample/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/src/main/java/com/sg/jdbctcomplexexample/TestApplicationConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/src/main/java/com/sg/jdbctcomplexexample/controller/MeetingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/src/main/java/com/sg/jdbctcomplexexample/dao/EmployeeDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/src/main/java/com/sg/jdbctcomplexexample/dao/EmployeeDaoDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/src/main/java/com/sg/jdbctcomplexexample/dao/MeetingDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/src/main/java/com/sg/jdbctcomplexexample/dao/MeetingDaoDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/src/main/java/com/sg/jdbctcomplexexample/dao/RoomDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/src/main/java/com/sg/jdbctcomplexexample/dao/RoomDaoDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/src/main/java/com/sg/jdbctcomplexexample/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/src/main/java/com/sg/jdbctcomplexexample/entity/Meeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/src/main/java/com/sg/jdbctcomplexexample/entity/Room.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/src/main/java/com/sg/jdbctcomplexexample/view/MeetingView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/src/main/java/com/sg/jdbctcomplexexample/view/UserIO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/src/main/java/com/sg/jdbctcomplexexample/view/UserIOConsoleImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/src/test/java/TestApplicationConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/src/test/java/com/sg/jdbctcomplexexample/dao/EmployeeDaoDBTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/src/test/java/com/sg/jdbctcomplexexample/dao/MeetingDaoDBTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/src/test/java/com/sg/jdbctcomplexexample/dao/RoomDaoDBTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/src/test/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/target/classes/com/sg/jdbctcomplexexample/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/target/classes/com/sg/jdbctcomplexexample/TestApplicationConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/target/classes/com/sg/jdbctcomplexexample/controller/MeetingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/target/classes/com/sg/jdbctcomplexexample/dao/EmployeeDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/target/classes/com/sg/jdbctcomplexexample/dao/EmployeeDaoDB$EmployeeMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/target/classes/com/sg/jdbctcomplexexample/dao/EmployeeDaoDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/target/classes/com/sg/jdbctcomplexexample/dao/MeetingDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/target/classes/com/sg/jdbctcomplexexample/dao/MeetingDaoDB$MeetingMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/target/classes/com/sg/jdbctcomplexexample/dao/MeetingDaoDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/target/classes/com/sg/jdbctcomplexexample/dao/RoomDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/target/classes/com/sg/jdbctcomplexexample/dao/RoomDaoDB$RoomMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/target/classes/com/sg/jdbctcomplexexample/dao/RoomDaoDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/target/classes/com/sg/jdbctcomplexexample/entity/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/target/classes/com/sg/jdbctcomplexexample/entity/Meeting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/target/classes/com/sg/jdbctcomplexexample/entity/Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/target/classes/com/sg/jdbctcomplexexample/view/MeetingView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/target/classes/com/sg/jdbctcomplexexample/view/UserIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/target/classes/com/sg/jdbctcomplexexample/view/UserIOConsoleImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/target/test-classes/TestApplicationConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/target/test-classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/target/test-classes/com/sg/jdbctcomplexexample/dao/EmployeeDaoDBTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/target/test-classes/com/sg/jdbctcomplexexample/dao/MeetingDaoDBTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 29 JDBC TestingExampleStarter/target/test-classes/com/sg/jdbctcomplexexample/dao/RoomDaoDBTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3 Collecting Console Input - Scanner/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3 Collecting Console Input - Scanner/.idea/Assignment 3 Collecting Console Input - Scanner.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3 Collecting Console Input - Scanner/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3 Collecting Console Input - Scanner/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3 Collecting Console Input - Scanner/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3 Collecting Console Input - Scanner/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3 Collecting Console Input - Scanner/out/production/Assignment 3 Collecting Console Input - Scanner/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3 Collecting Console Input - Scanner/out/production/Assignment 3 Collecting Console Input - Scanner/.idea/Assignment 3 Collecting Console Input - Scanner.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3 Collecting Console Input - Scanner/out/production/Assignment 3 Collecting Console Input - Scanner/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3 Collecting Console Input - Scanner/out/production/Assignment 3 Collecting Console Input - Scanner/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3 Collecting Console Input - Scanner/out/production/Assignment 3 Collecting Console Input - Scanner/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3 Collecting Console Input - Scanner/out/production/Assignment 3 Collecting Console Input - Scanner/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 30 Spring Boot REST Service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 30 Spring Boot REST Service/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 30 Spring Boot REST Service/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 30 Spring Boot REST Service/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 30 Spring Boot REST Service/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 30 Spring Boot REST Service/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 30 Spring Boot REST Service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 30 Spring Boot REST Service/src/main/java/org/example/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 30 Spring Boot REST Service/src/main/java/org/example/controller/SimpleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 31 Spring Boot REST Service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 31 Spring Boot REST Service/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 31 Spring Boot REST Service/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 31 Spring Boot REST Service/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 31 Spring Boot REST Service/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 31 Spring Boot REST Service/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 31 Spring Boot REST Service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 31 Spring Boot REST Service/src/main/java/org/todoapi/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 31 Spring Boot REST Service/src/main/java/org/todoapi/controllers/Error.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 31 Spring Boot REST Service/src/main/java/org/todoapi/controllers/ToDoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 31 Spring Boot REST Service/src/main/java/org/todoapi/controllers/ToDoControllerExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 31 Spring Boot REST Service/src/main/java/org/todoapi/data/ToDoDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 31 Spring Boot REST Service/src/main/java/org/todoapi/data/ToDoDatabaseDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 31 Spring Boot REST Service/src/main/java/org/todoapi/data/ToDoInMemoryDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 31 Spring Boot REST Service/src/main/java/org/todoapi/models/ToDo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 31 Spring Boot REST Service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 4 Code Along Window Master/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 4 Code Along Window Master/.idea/Assignment 4 Code Along Window Master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 4 Code Along Window Master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 4 Code Along Window Master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 4 Code Along Window Master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 4 Code Along Window Master/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 4 Code Along Window Master/out/production/Assignment 4 Code Along Window Master/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 4 Code Along Window Master/out/production/Assignment 4 Code Along Window Master/.idea/Assignment 4 Code Along Window Master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 4 Code Along Window Master/out/production/Assignment 4 Code Along Window Master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 4 Code Along Window Master/out/production/Assignment 4 Code Along Window Master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 4 Code Along Window Master/out/production/Assignment 4 Code Along Window Master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 4 Code Along Window Master/out/production/Assignment 4 Code Along Window Master/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5 Declare variables for height and width/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5 Declare variables for height and width/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5 Declare variables for height and width/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5 Declare variables for height and width/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5 Declare variables for height and width/Assignment 5 Declare variables for height and width.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5 Declare variables for height and width/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5 Declare variables for height and width/out/production/Assignment 5 Declare variables for height and width/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5 Declare variables for height and width/out/production/Assignment 5 Declare variables for height and width/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5 Declare variables for height and width/out/production/Assignment 5 Declare variables for height and width/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5 Declare variables for height and width/out/production/Assignment 5 Declare variables for height and width/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5 Declare variables for height and width/out/production/Assignment 5 Declare variables for height and width/Assignment 5 Declare variables for height and width.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 5 Declare variables for height and width/out/production/Assignment 5 Declare variables for height and width/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/basics/core/ABeginning.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/basics/core/AllTheMaths.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/basics/core/CommentingCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/basics/core/ProjectGutenberg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/arrays/ARainbow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/arrays/FruitSalad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/arrays/FruitsBasket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/arrays/HiddenNuts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/arrays/SimpleCombination.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/arrays/StillPositive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/fors/DifferentKettleOfFish.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/fors/ForAndTwentyBlackbirds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/fors/ForByFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/fors/ForTimes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/fors/ForTimesFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/fors/SpringForwardFallBack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/fors/TheCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/fors/TraditionalFizzBuzz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/fors/TwoForsAndTenYearsAgo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/ifs/BirthStones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/ifs/FieldDay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/ifs/GuessMe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/ifs/KnockKnock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/ifs/LlamasWhalesAndDodosOhMy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/ifs/MiniZork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/ifs/SpaceRustlers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/methods/BarelyControlledChaos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/methods/MatchWork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/methods/MethodToTheMadness.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/methods/ReturnToSender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/random/ALittleChaos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/random/CoinFlipper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/random/FortuneCookie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/random/GuessMeMore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/random/HighRoller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/random/Opinionator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/whiles/BewareTheKraken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/whiles/DoOrDoNot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/whiles/GuessMeFinally.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/whiles/LazyTeenager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/whiles/LovesMe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/whiles/MaybeItLovesMe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/whiles/RollerCoaster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/whiles/StayPositive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/flowcontrol/whiles/WaitAWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/scanner/AllTheTrivia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/scanner/BiggerBetterAdder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/scanner/DoItBetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/scanner/DontForgetToStoreIt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/scanner/HealthyHearts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/scanner/MiniMadLibs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/scanner/PassingTheTuringTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/scanner/QuestForTheUserInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/variables/AllAboutMe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/variables/BestAdderEver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/variables/InABucket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/variables/MenuOfChampions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/variables/MoreBucketsMoreFun.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 6 PracticeProgramming/src/main/java/com/sg/foundations/variables/TheOrderOfThings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7 Factorizer/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7 Factorizer/.idea/Assignment 7 Factorizer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7 Factorizer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7 Factorizer/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7 Factorizer/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7 Factorizer/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7 Factorizer/out/production/Assignment 7 Factorizer/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7 Factorizer/out/production/Assignment 7 Factorizer/.idea/Assignment 7 Factorizer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7 Factorizer/out/production/Assignment 7 Factorizer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7 Factorizer/out/production/Assignment 7 Factorizer/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7 Factorizer/out/production/Assignment 7 Factorizer/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 7 Factorizer/out/production/Assignment 7 Factorizer/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 8 Interest Calculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 8 Interest Calculator/.idea/Assignment 8 Interest Calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 8 Interest Calculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 8 Interest Calculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 8 Interest Calculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 8 Interest Calculator/InterestCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 8 Interest Calculator/out/production/Assignment 8 Interest Calculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 8 Interest Calculator/out/production/Assignment 8 Interest Calculator/.idea/Assignment 8 Interest Calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 8 Interest Calculator/out/production/Assignment 8 Interest Calculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 8 Interest Calculator/out/production/Assignment 8 Interest Calculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 8 Interest Calculator/out/production/Assignment 8 Interest Calculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 8 Interest Calculator/out/production/Assignment 8 Interest Calculator/InterestCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 9 LuckySevens/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 9 LuckySevens/.idea/Assignment 9 LuckySevens.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 9 LuckySevens/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 9 LuckySevens/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 9 LuckySevens/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 9 LuckySevens/LuckySevens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 9 LuckySevens/out/production/Assignment 9 LuckySevens/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 9 LuckySevens/out/production/Assignment 9 LuckySevens/.idea/Assignment 9 LuckySevens.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 9 LuckySevens/out/production/Assignment 9 LuckySevens/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 9 LuckySevens/out/production/Assignment 9 LuckySevens/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 9 LuckySevens/out/production/Assignment 9 LuckySevens/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 9 LuckySevens/out/production/Assignment 9 LuckySevens/LuckySevens.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/Example ERD/Example ERD.mwb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/Grouping and aggregates examples and exercises/personaltrainer-schema-and-data - Grouping and aggregates.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/JDBC Concept example.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/JDBC Template and Complex Relationships/JDBC Template and Complex Relationships.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/JDBC Template and Testing/JDBC Template and Testing.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/JDBC database/JDBC Concept example.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/Joins queries examples and exercises/personaltrainer-schema-and-data exercises.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/Joins queries examples and exercises/trackit-schema-and-data Joins examples.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/MelodyMap/melodyMapModel.mwb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/MelodyMap/melodyMapModel.mwb.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/MySQL workbench forward engineered code/MySQL workbench forward engineered code.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/Select queries examples and exercises/consumer-complaints-schema-and-data - Select queries examples.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/Select queries examples and exercises/consumer-complaints-schema-and-data Select queries exercises.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/TrackIt/TrackIt.mwb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/TrackIt/TrackIt.mwb.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/TrackIt/TrackIt.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/Vinylrecordshop" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/Vinylrecordshop schema My version/Vinyl Record Shop.mwb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/Vinylrecordshop schema My version/Vinyl Record Shop.mwb.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/Vinylrecordshop schema My version/Vinylrecordshop schema version 2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/Vinylrecordshop schema My version/vinyl record shop script.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/VinylrecordshopSchemaCodeAlong/Vinylrecordshop-schema Code Along.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/VinylrecordshopSchemaCodeAlong/album.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/VinylrecordshopSchemaCodeAlong/artist.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/VinylrecordshopSchemaCodeAlong/artistBand.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/VinylrecordshopSchemaCodeAlong/band.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/VinylrecordshopSchemaCodeAlong/song.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/VinylrecordshopSchemaCodeAlong/songAlbum.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diagrams/artist.sql" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2hUsVVnuHByZQH439Kk1tVwpAHB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.SchoolJpaApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/C387repos/Assignments/School App with Spring Data JPA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="SchoolJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="school-app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wiley.schoolJPA.SchoolJpaApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wiley.schoolJPA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SchoolJpaApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02c1f3db-33d5-4ad7-9433-2fcab01ee17a" name="Changes" comment="" />
+      <created>1717660013533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717660013533</updated>
+      <workItem from="1717660014589" duration="10560000" />
+      <workItem from="1717691136417" duration="1072000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
